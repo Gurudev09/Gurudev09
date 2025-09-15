@@ -1,8 +1,37 @@
-👋 Hi, I'm @Gurudev09! I'm an individual with a passion for various areas in technology and development.
-👀 I'm particularly interested in a diverse set of topics, including:
-Front-End Development: I enjoy creating visually appealing and interactive user interfaces for websites and applications using HTML, CSS, and JavaScript.
-Team Management Skills: I'm committed to honing my leadership abilities to effectively coordinate and guide teams in achieving shared goals. I value communication, collaboration, and maintaining a positive team spirit.
-Java Programming with OOP: I find joy in developing projects using the Java programming language, leveraging its powerful object-oriented programming principles to build modular and maintainable solutions.
-Database Management Systems (DBMS): I'm fascinated by the world of databases and how they enable efficient data storage, retrieval, and management. I strive to create well-designed and optimized database systems.
-Machine Learning: I'm excited about the potential of machine learning to transform data into insights and predictions. I'm eager to explore algorithms, models, and applications in this dynamic field.
-🌱 Currently, I'm in the process of learning and expanding my knowledge in all these areas. I'm dedicated to continuous growth and improvement in my technical skills and professional capabilities.
+# 👋 Hi, I'm Gurudev (@Gurudev09)
+
+I'm a **Software Product Engineer at Trianz** with a strong passion for building scalable, efficient, and user-friendly applications.  
+I love learning across domains and applying technology to solve real-world problems. 🚀  
+
+---
+
+## 👀 Areas of Interest & Skills
+- **Full-Stack Development**: Skilled in **Java**, **.NET**, and **Node.js/React** for building robust web applications.  
+- **Front-End Development**: Creating responsive, interactive UIs with **HTML, CSS, JavaScript, React**.  
+- **Back-End Development**: Experienced in server-side logic with **Java (Spring Boot)**, **.NET Core**, and **Express.js**.  
+- **Database Management**: Proficient in **SQL** and **DBMS concepts** for efficient data handling.  
+- **Machine Learning Enthusiast**: Exploring algorithms and models to uncover insights from data.  
+- **Team Collaboration**: Strong communication and coordination skills to work effectively in teams.  
+
+---
+
+## 🌱 Currently Exploring
+- Advancing expertise in **.NET** and **Java** for enterprise projects.  
+- Learning **interior designing** to explore creativity beyond software.  
+- Experimenting with **automation using LLMs** (AI agents & workflows).  
+
+---
+
+## 💡 Fun Facts
+- Big fan of **Sunrisers Hyderabad (IPL)** and right-handed batsmen ⚡🏏  
+- Maintain a healthy routine with fruits like **pomegranate & muskmelon** 🍎🍈  
+- Always eager to blend **technical problem-solving** with **creative design thinking**.  
+
+---
+
+## 📫 Connect With Me
+- GitHub: [@Gurudev09](https://github.com/Gurudev09)  
+  
+
+---
+✨ *"Always curious, always learning — building one project at a time."*  
